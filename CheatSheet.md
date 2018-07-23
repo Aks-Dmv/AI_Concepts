@@ -11,6 +11,7 @@ If you have a high-quality tutorial or project to add, please open a PR.
 - [Cheat Sheet for AI/ML](https://github.com/kailashahirwar/cheatsheets-ai) - Useful concept wise division of useful code
 - [Simple Keras Basic to Advanced](https://github.com/tgjeon/Keras-Tutorials) - Programs that illustrate Basic to Advanced concepts in Keras
 - [medium Robbie Allen Cheat sheet](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen wrote a cheat sheet that sums up quite a few things that we need to keep in mind before starting a project
+- [Julia Cheatsheet] (https://juliadocs.github.io/Julia-Cheat-Sheet/) If you want an in depth julia cheatsheet
 
 ## Official starter resources
 

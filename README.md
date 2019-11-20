@@ -1,2 +1,2 @@
 # AI_Concepts
-This repository will have documented code in the form of jupy notebooks that illustrate different AI concepts along with working code.
+I made this repository as a means to record my thought process. It has documented code in the form of jupy notebooks and illustrates different AI concepts, along with working code.
